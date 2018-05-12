@@ -1,0 +1,29 @@
+_repo: '----_25392'
+_version: 0.1.0
+alternative_title: Xi Hu er ji
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Zhou, Qingyuan, active 16th century-17th century
+    aliases:
+    - Zhou, Ji
+    - 周清源
+    - Chou, Chi
+    gutenberg_agent_id: '31302'
+    url: http://www.gutenberg.org/2009/agents/31302
+description: ''
+gutenberg_issued: '2008-05-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25392'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'West Lake (China) -- History -- Fiction'
+- !lcc 'PL'
+title: 西湖二集
+url: http://www.gutenberg.org/ebooks/25392
